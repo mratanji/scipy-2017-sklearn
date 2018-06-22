@@ -174,3 +174,5 @@ Afternoon Session
 - 21 Unsupervised learning: Non-linear dimensionality reduction [[view](notebooks/21.Unsupervised_learning-Non-linear_dimensionality_reduction.ipynb)]
 - 22 Unsupervised learning: Anomaly Detection [[view](notebooks/22.Unsupervised_learning-anomaly_detection.ipynb)]
 - 23 Supervised learning: Out-of-core learning [[view](notebooks/23.Out-of-core_Learning_Large_Scale_Text_Classification.ipynb)]
+
+Adding a line to test git
